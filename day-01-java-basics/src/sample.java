@@ -1,6 +1,5 @@
-//public class VariablesDemo {
-//}
-public class VariablesDemo {
+
+public class sample {
     public static void main(String[] args) {
         int age = 22;
         String name = "Sheshikiran";
